@@ -1,0 +1,10 @@
+{
+  "name": "Enquetes",
+  "description": "Enquetes for favorite foods.",
+  "repository": "",
+  "logo": "",
+  "keywords": [
+    "node"
+  ],
+  "image": "heroku/nodejs"
+}
